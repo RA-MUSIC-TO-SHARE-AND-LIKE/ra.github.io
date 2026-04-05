@@ -1,0 +1,37 @@
+/*
+  # --- PERFORMANCE (Core Web Vitals) ---
+  Cache-Control: public, max-age=31536000, immutable
+  Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+
+  # --- SEO DISCOVERABILITY ---
+  X-Robots-Tag: index, follow
+  Link: <https://ra-music-one-link-to-share-peace.netlify.app/>; rel="canonical"
+
+  # --- SOCIAL SHARE OPTIMIZATION ---
+  # Open Graph
+  X-OG-Title: RA — Official Music Links
+  X-OG-Description: Stream RA everywhere. One link to all platforms.
+  X-OG-Image: /og-image.jpg
+  X-OG-URL: https://ra-music-one-link-to-share-peace.netlify.app/
+  X-OG-Type: website
+
+  # Twitter
+  X-Twitter-Card: summary_large_image
+  X-Twitter-Title: RA — Official Music Links
+  X-Twitter-Description: Listen to RA on Spotify, YouTube, Apple Music, Tidal & more.
+  X-Twitter-Image: /og-image.jpg
+
+  # --- SECURITY (without harming SEO or shareability) ---
+  X-Frame-Options: SAMEORIGIN
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: geolocation=(), microphone=(), camera=()
+
+  # --- CORS (for maximum shareability and embedding) ---
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET, OPTIONS
+  Access-Control-Allow-Headers: *
+
+  # --- PRELOAD (optional, improves speed if you add fonts/images) ---
+  # Link: </fonts/your-font.woff2>; rel=preload; as=font; type="font/woff2"; crossorigin
+  # Link: </hero-image.jpg>; rel=preload; as=image
