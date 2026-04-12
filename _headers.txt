@@ -5,14 +5,14 @@
 
   # --- SEO DISCOVERABILITY ---
   X-Robots-Tag: index, follow
-  Link: <https://ra-music-one-link-to-share-peace.netlify.app/>; rel="canonical"
+  Link: <https://ra-music-to-share-and-like.github.io/RA/>; rel="canonical"
 
   # --- SOCIAL SHARE OPTIMIZATION ---
   # Open Graph
   X-OG-Title: RA — Official Music Links
   X-OG-Description: Stream RA everywhere. One link to all platforms.
   X-OG-Image: /og-image.jpg
-  X-OG-URL: https://ra-music-one-link-to-share-peace.netlify.app/
+  X-OG-URL: https://ra-music-to-share-and-like.github.io/RA/
   X-OG-Type: website
 
   # Twitter
