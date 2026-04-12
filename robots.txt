@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ra-music-one-link-to-share-peace.netlify.app/sitemap.xml
+Sitemap: https://ra-music-to-share-and-like.github.io/RA/sitemap.xml
