@@ -2,9 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://ra-music-to-share-and-like.github.io/RA/</loc>
+    <loc>https://ra-music-to-share-and-like.github.io/ra.github.io/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
+  <url>
+    <loc>https://ra.ra-music.workers.dev/</loc>
+        <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
 </urlset>
+
+
+
+ 
